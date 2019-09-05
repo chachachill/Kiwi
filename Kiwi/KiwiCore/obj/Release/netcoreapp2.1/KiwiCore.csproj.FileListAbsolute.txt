@@ -1,0 +1,14 @@
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\KiwiCore.deps.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\KiwiCore.runtimeconfig.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\KiwiCore.runtimeconfig.dev.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\KiwiCore.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\KiwiCore.pdb
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\Kiwi.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\bin\Release\netcoreapp2.1\Kiwi.pdb
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.csprojAssemblyReference.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.csproj.CoreCompileInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.AssemblyInfoInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.AssemblyInfo.cs
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.csproj.CopyComplete
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiCore\obj\Release\netcoreapp2.1\KiwiCore.pdb

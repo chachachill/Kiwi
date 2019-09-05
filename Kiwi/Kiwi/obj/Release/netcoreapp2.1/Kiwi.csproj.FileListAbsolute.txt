@@ -1,0 +1,9 @@
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\bin\Release\netcoreapp2.1\Kiwi.deps.json
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\bin\Release\netcoreapp2.1\Kiwi.dll
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\bin\Release\netcoreapp2.1\Kiwi.pdb
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\Release\netcoreapp2.1\Kiwi.csproj.CoreCompileInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\Release\netcoreapp2.1\Kiwi.AssemblyInfoInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\Release\netcoreapp2.1\Kiwi.AssemblyInfo.cs
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\Release\netcoreapp2.1\Kiwi.dll
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\Release\netcoreapp2.1\Kiwi.pdb
+C:\Users\nibhatt\source\repos\Kiwi\Kiwi\obj\release\netcoreapp2.1\Kiwi.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\KiwiTests.deps.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\KiwiTests.runtimeconfig.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\KiwiTests.runtimeconfig.dev.json
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\KiwiTests.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\KiwiTests.pdb
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\Kiwi.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\bin\Release\netcoreapp2.1\Kiwi.pdb
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.csprojAssemblyReference.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.csproj.CoreCompileInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.AssemblyInfoInputs.cache
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.AssemblyInfo.cs
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.csproj.CopyComplete
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.dll
+C:\Users\nibhatt\source\repos\Kiwi\KiwiTests\obj\Release\netcoreapp2.1\KiwiTests.pdb
